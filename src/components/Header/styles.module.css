@@ -1,0 +1,19 @@
+a {
+  text-decoration: none;
+}
+
+.header {
+  background-color: #151515;
+  padding: 20px 80px;
+}
+
+.title {
+  font-size: 3rem;
+  font-family: 'Big Shoulders Display';
+  text-transform: uppercase;
+  color: #fff;
+}
+
+.title span {
+  color: #d11f9e;
+}
